@@ -2,7 +2,6 @@
 ===============================================================
 Course submission for "Getting and Cleaning Data" on Coursera
 Prepared by Stephen van Gaal on May 24 2016
-===============================================================
 
 Overview - this script is prepared to meet the requirements of the
 course assignment. 
